@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+ <debug showDebugMenu="0" />
+ <systemtable filter="All Interfaces">
+  <columns>
+   <connections preferredWidth="143" />
+   <irq preferredWidth="34" />
+  </columns>
+ </systemtable>
+ <library
+   expandedCategories="Project/Interface Protocols/Serial,Project/Interface Protocols,Project,Project/Terasic Technologies Inc,Library" />
+ <window width="1874" height="996" x="0" y="34" />
+</preferences>
